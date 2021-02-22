@@ -4,8 +4,8 @@
   "telegram_api_debug": false,
   "db_path": "./bot.db",
   "log_level": "info",
-  "feed_parse_amount": 5,
-  "feed_post_amount": 2,
-  "feed_updates_interval": 600,
-  "feed_posts_interval": 400
+  "feed_parse_amount": 50,
+  "feed_post_amount": 50,
+  "feed_updates_interval": 300,
+  "feed_posts_interval": 100
 }
