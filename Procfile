@@ -1,1 +1,1 @@
-worker: bin/telegram-rss-bot
+web: bin/telegram-rss-bot
