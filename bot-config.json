@@ -1,5 +1,5 @@
 {
-  "telegram_auth_key": "1617200091:AAHpfR48N3vMJrTBHLL6lkgMEQlbv_xf04U",
+  "telegram_auth_key": "1656682999:AAHFNjUAupKkPo3-iVBJn1h39KfZExf0qG4",
   "migrations": "v1",
   "telegram_api_debug": false,
   "db_path": "./bot.db",
