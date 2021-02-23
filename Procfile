@@ -1,1 +1,1 @@
-web:node ./bin/telegram-rss-bot
+web:node /bin/init.sh /bin/rss-bot
